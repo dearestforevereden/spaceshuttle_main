@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class stage2_next : MonoBehaviour
 {
     public void SceneChange() {
-        SceneManager.LoadScene("stage3");
+        SceneManager.LoadScene("Stage_3");
     }
 }
