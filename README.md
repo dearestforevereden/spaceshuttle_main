@@ -1,4 +1,4 @@
-This game was developed by Hayden Gonne and Tae Hyeong Lim from April 14, 2024, to June 20, 2024.
+This game was developed by Eden Ha and Tae Hyeong Lim from April 14, 2024, to June 20, 2024.
 
 The project has two branches: most components are in the master branch, while the APK and other files are in the main branch. The game focuses on learning about outer space, spaceships, and other celestial components through assembling and completing various stages.
 
